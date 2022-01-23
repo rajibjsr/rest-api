@@ -7,6 +7,24 @@
     }
   ],
   "registeredUser": [],
+  "offerDetails": [
+    {
+      "id": "430444f1",
+      "date": "7th-Jan-2022",
+      "status": "Active",
+      "product": "Chicken Leg Quarters",
+      "qty": "500Lb",
+      "price": "$50CAD",
+    },
+    {
+      "id": "BWI456555TC",
+      "date": "8th-Jan-2022",
+      "status": "Active",
+      "product": "Duck Leg Quarters",
+      "qty": "1000Lb",
+      "price": "$55CAD",
+    },
+  ],
   "profile": {
     "name": "typicode"
   }
